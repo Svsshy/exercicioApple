@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card{
+    display: flex;
+    height: 582px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.botões{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.buy{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 27px;
+    width: 91px;
+    height: 36px;
+    left: 267px;
+    top: 2288px;
+    border: solid;
+    background: #0071E3;
+    border-radius: 45px;
+}
+
+.learnMore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #0071E3;
+}
+
+#img{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#imagemMacBook{
+    justify-content: center;
+    align-items: center;
+}
+
+#hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#new{
+    font-size: 20px;
+    display: flex;
+    color: #BF4800;
+    justify-content: center;
+    align-items: center;
+}
+
+#macBookPro{
+    color: black;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#slogan{
+
+    color: black;
+    font-size: 96px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 24px 0px 28px 0px;
+}
+
+#text{
+    color: #575757;
+    font-size: 32px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#produto{
+    height: 902px;
+    display: flex;
+    flex-direction: column;
+}
+
+#nomeProduto{
+    color: #1D1D1F;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 73px;
+    margin-bottom: 144px;
+}
+
+#produtoCards{
+    height: 582px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#imgCard{
+    margin: 40px 0px 50px 0px;
+}
+
+
+#newCard{
+    font-size: 20px;
+    color: #BF4800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#macbook13{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    color: #1D1D1F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7px 0px 20px 0px;
+}
+
+#macbookPreço{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    color: #1D1D1F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+
+#imgCard2{
+    margin-bottom: 81px;
+}
+
+#macbookPro14e16 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    color: #1D1D1F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#preço2{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    color: #1D1D1F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
